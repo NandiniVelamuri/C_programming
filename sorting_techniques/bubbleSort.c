@@ -44,5 +44,3 @@ void main(){
 	printf("\nSorted Array:");
 	printArray(a,size);
 }
-
-
