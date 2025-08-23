@@ -19,7 +19,7 @@ typedef struct{
 
 void printArray(int a[],int size);
 
-void bubbleSort(int a[],int size);
+void bubbleSort(int a[],int size); /*mode=1*/
 void insertionSort(int a[],int size);
 void selectionSort(int a[],int size);
 void mergeSort(int a[],int low,int high);
